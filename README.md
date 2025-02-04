@@ -12,5 +12,7 @@ Frontend: HTML, CSS, JavaScript.<br><br><br>
 
 
 
-![image](https://github.com/user-attachments/assets/b7b54dc4-6136-44da-a9bf-6133cbb2d957)
+![image](https://github.com/user-attachments/assets/b7b54dc4-6136-44da-a9bf-6133cbb2d957)  <br>
+<br>
+Hosted in Netlify: https://marvelous-centaur-eb91b2.netlify.app/
 
