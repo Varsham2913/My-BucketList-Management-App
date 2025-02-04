@@ -9,3 +9,8 @@
 
 <h3>🛠️ Technologies Used </h3>
 Frontend: HTML, CSS, JavaScript.
+
+<br>
+
+![image](https://github.com/user-attachments/assets/b7b54dc4-6136-44da-a9bf-6133cbb2d957)
+
